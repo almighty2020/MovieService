@@ -1,0 +1,21 @@
+{
+  "name": "mymovies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "12.14.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "~4.16.2",
+    "joi": "~13.1.0",
+    "mongoose": "~5.13.13"
+  }
+}
